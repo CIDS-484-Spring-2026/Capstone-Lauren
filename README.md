@@ -5,12 +5,12 @@ Machine Learning in Cybersecurity: Strengths, Limitations, and Applications in M
 ________________________________________
 # I. Introduction
 A. Background-
-•	Growth of enterprise systems (cloud, IoT, distributed networks)
-•	Increasing malware sophistication
-•	Limitations of traditional signature-based detection
-B. Problem Statement
+-	Growth of enterprise systems (cloud, IoT, distributed networks)
+-	Increasing malware sophistication
+-	Limitations of traditional signature-based detection
+-B. Problem Statement
 While machine learning has improved malware detection, its effectiveness varies across environments and introduces new technical and operational challenges.
-C. Purpose of the Study
+-C. Purpose of the Study
 To evaluate how machine learning enhances malware detection in enterprise systems and identify where it excels and where it falls short.
 ________________________________________
 # II. Definition of Enterprise Systems
